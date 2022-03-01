@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waruna00
-- 👀 I’m interested in Javascripting and C++
+- 👀 I’m interested in Javascripting,Java and C++
 - 🌱 MIT Undergraduate
-- 💞️ I’m looking to collaborate on Js
+- 💞️ I’m looking to collaborate on Js,Java or C++
 - 📫 warunasri44@gmail.com
 
 
