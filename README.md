@@ -1,6 +1,5 @@
 <h1 align="center"><br>Hi there..<i>&#128075;</i>, I'm Waruna<br><br></h1>
 
-
 <h3>Connect with me:</h3>
 <div style="position: absolute;">
   <a href="https://www.facebook.com/warunasri.wickramasinghe">
